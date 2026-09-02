@@ -6,3 +6,10 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+
+.inline-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
